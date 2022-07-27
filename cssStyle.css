@@ -1,0 +1,22 @@
+body{
+  background-color: #D4ECDD;
+}
+hr{
+width: 5%;
+border-style: none;
+border-top-style: dotted;
+border-width: 8px;
+color:#345B63;
+
+}
+h2{
+color:#112031;
+}
+h3{
+color:#112031;
+}
+th{
+font-style: italic;
+color: #112031;
+}
+
